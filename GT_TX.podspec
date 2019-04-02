@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "GT_TX"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "this is  provided performance testing of ios."
 
   # This description is used to generate tags and improve search results.
@@ -55,9 +55,9 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "povit" => "wanghao@panda.tv" }
+  s.author             = { "povit" => "137471806@qq.com" }
   # Or just: s.author    = "povit"
-  # s.authors            = { "povit" => "wanghao@panda.tv" }
+  # s.authors            = { "povit" => "137471806@qq.com" }
   # s.social_media_url   = "http://twitter.com/povit"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -106,7 +106,7 @@ Pod::Spec.new do |s|
   #  You can preserve files from being cleaned, please don't preserve
   #  non-essential files like tests, examples and documentation.
   #
-    s.resource     = 'Resources/GT.bundle'
+    s.resources     = 'Resources/GT.bundle'
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
 
